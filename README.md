@@ -14,11 +14,11 @@ Main login page :
 
 ![](images/Screenshot(137).png)
 
-User home page :
+Admin home page :
 
 ![](images/Screenshot(123).png)
 
-Admin home page :
+User home page :
 
 ![](images/Screenshot(140).png)
 
