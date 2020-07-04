@@ -10,10 +10,15 @@ Java project for an employee login system, with separate logins for admin and us
 
 ### Screenshots :
 
+Main login page :
 
 ![](images/Screenshot(137).png)
 
+User home page :
+
 ![](images/Screenshot(123).png)
+
+Admin home page :
 
 ![](images/Screenshot(140).png)
 
